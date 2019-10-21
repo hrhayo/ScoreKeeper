@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Score Keeper</string>
+    <string name="man_united">MAN UNITED</string>
+    <string name="_0">0</string>
+    <string name="reset">RESET</string>
+    <string name="_0a">0</string>
+    <string name="_0b">0</string>
+    <string name="shot_on_target">SHOT ON TARGET</string>
+    <string name="goal">GOAL</string>
+    <string name="_0c">0</string>
+    <string name="liverpool">LIVERPOOL</string>
+</resources>
